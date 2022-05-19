@@ -1,0 +1,202 @@
+[
+    {
+        "NAME": "BENAI",
+        "STATS": {
+            "HEALTH": 158.0,
+            "AGILITY": 35.0,
+            "STRENGTH": 18.0,
+            "TOTAL": 211.0
+        },
+        "ATTRIBUTES": {
+            "DOG_FRIENDLY": 9,
+            "OBLIVIOUS": 7,
+            "MINECRAFT": 6,
+            "DAD_JOKE": 5,
+            "INSOMNIAC": 4,
+            "TIKTOK": 4,
+            "QUIRKINESS": 0,
+            "VEGETARIAN": 0,
+            "STEEZY": 0
+        }
+    },
+    {
+        "NAME": "AMBER M. SPRIGGS",
+        "STATS": {
+            "HEALTH": 172.0,
+            "STRENGTH": 29.5,
+            "AGILITY": 19.0,
+            "TOTAL": 220.5
+        },
+        "ATTRIBUTES": {
+            "DOG_FRIENDLY": 9,
+            "DAD_JOKE": 7,
+            "VEGETARIAN": 7,
+            "OBLIVIOUS": 5,
+            "STEEZY": 4,
+            "MINECRAFT": 3,
+            "QUIRKINESS": 0,
+            "INSOMNIAC": 0,
+            "TIKTOK": 0
+        }
+    },
+    {
+        "NAME": "ZEEBZOBB",
+        "STATS": {
+            "HEALTH": 119.0,
+            "AGILITY": 58.5,
+            "STRENGTH": 3.0,
+            "TOTAL": 180.5
+        },
+        "ATTRIBUTES": {
+            "MINECRAFT": 10,
+            "DOG_FRIENDLY": 8,
+            "TIKTOK": 6,
+            "STEEZY": 6,
+            "OBLIVIOUS": 3,
+            "DAD_JOKE": 2,
+            "QUIRKINESS": 0,
+            "INSOMNIAC": 0,
+            "VEGETARIAN": 0
+        }
+    },
+    {
+        "NAME": "PETE CANFIELD",
+        "STATS": {
+            "HEALTH": 120.0,
+            "AGILITY": 42.5,
+            "STRENGTH": 26.5,
+            "TOTAL": 189.0
+        },
+        "ATTRIBUTES": {
+            "DOG_FRIENDLY": 9,
+            "MINECRAFT": 7,
+            "OBLIVIOUS": 6,
+            "STEEZY": 6,
+            "DAD_JOKE": 3,
+            "INSOMNIAC": 3,
+            "VEGETARIAN": 1,
+            "QUIRKINESS": 0,
+            "TIKTOK": 0
+        }
+    },
+    {
+        "NAME": "NEEN",
+        "STATS": {
+            "HEALTH": 143.0,
+            "AGILITY": 50.0,
+            "STRENGTH": 3.0,
+            "TOTAL": 196.0
+        },
+        "ATTRIBUTES": {
+            "DOG_FRIENDLY": 10,
+            "INSOMNIAC": 9,
+            "TIKTOK": 8,
+            "VEGETARIAN": 6,
+            "OBLIVIOUS": 2,
+            "QUIRKINESS": 0,
+            "DAD_JOKE": 0,
+            "MINECRAFT": 0,
+            "STEEZY": 0
+        }
+    },
+    {
+        "NAME": "JACK WEAKLY",
+        "STATS": {
+            "HEALTH": 138.0,
+            "STRENGTH": 41.0,
+            "AGILITY": 30.0,
+            "TOTAL": 209.0
+        },
+        "ATTRIBUTES": {
+            "DAD_JOKE": 9,
+            "DOG_FRIENDLY": 8,
+            "MINECRAFT": 6,
+            "STEEZY": 6,
+            "QUIRKINESS": 2,
+            "OBLIVIOUS": 2,
+            "INSOMNIAC": 2,
+            "TIKTOK": 0,
+            "VEGETARIAN": 0
+        }
+    },
+    {
+        "NAME": "GABRIELLE MARIE RIVERA KROENKE",
+        "STATS": {
+            "HEALTH": 169.0,
+            "STRENGTH": 26.5,
+            "AGILITY": 17.0,
+            "TOTAL": 212.5
+        },
+        "ATTRIBUTES": {
+            "DOG_FRIENDLY": 10,
+            "VEGETARIAN": 9,
+            "DAD_JOKE": 5,
+            "OBLIVIOUS": 5,
+            "STEEZY": 5,
+            "INSOMNIAC": 1,
+            "QUIRKINESS": 0,
+            "MINECRAFT": 0,
+            "TIKTOK": 0
+        }
+    },
+    {
+        "NAME": "SAMUEL PETERSON",
+        "STATS": {
+            "HEALTH": 171.0,
+            "AGILITY": 28.5,
+            "STRENGTH": 23.0,
+            "TOTAL": 222.5
+        },
+        "ATTRIBUTES": {
+            "VEGETARIAN": 8,
+            "DAD_JOKE": 7,
+            "DOG_FRIENDLY": 7,
+            "MINECRAFT": 5,
+            "OBLIVIOUS": 4,
+            "STEEZY": 2,
+            "INSOMNIAC": 1,
+            "TIKTOK": 1,
+            "QUIRKINESS": 0
+        }
+    },
+    {
+        "NAME": "SARAH",
+        "STATS": {
+            "HEALTH": 140.0,
+            "STRENGTH": 45.0,
+            "AGILITY": 12.0,
+            "TOTAL": 197.0
+        },
+        "ATTRIBUTES": {
+            "OBLIVIOUS": 10,
+            "INSOMNIAC": 8,
+            "TIKTOK": 7,
+            "DAD_JOKE": 4,
+            "DOG_FRIENDLY": 2,
+            "VEGETARIAN": 2,
+            "STEEZY": 2,
+            "QUIRKINESS": 0,
+            "MINECRAFT": 0
+        }
+    },
+    {
+        "NAME": "GOOM",
+        "STATS": {
+            "HEALTH": 94.0,
+            "AGILITY": 45.5,
+            "STRENGTH": 27.0,
+            "TOTAL": 166.5
+        },
+        "ATTRIBUTES": {
+            "DOG_FRIENDLY": 10,
+            "INSOMNIAC": 10,
+            "STEEZY": 6,
+            "DAD_JOKE": 3,
+            "OBLIVIOUS": 3,
+            "MINECRAFT": 3,
+            "QUIRKINESS": 0,
+            "TIKTOK": 0,
+            "VEGETARIAN": 0
+        }
+    }
+]

@@ -1,0 +1,282 @@
+{
+    "BENAI": {
+        "DEFEATS": 898,
+        "TRIUMPHS": 102,
+        "VICTORIES": 877,
+        "TOTAL_DAMAGE": 108.0,
+        "DEFEATED_BY": {
+            "SARAH": 118,
+            "SAMUEL PETERSON": 126,
+            "GOOM": 93,
+            "GABRIELLE MARIE RIVERA KROENKE": 84,
+            "JACK WEAKLY": 102,
+            "NEEN": 87,
+            "AMBER M. SPRIGGS": 106,
+            "PETE CANFIELD": 91,
+            "ZEEBZOBB": 91
+        },
+        "DEFEATED": {
+            "SAMUEL PETERSON": 104,
+            "GABRIELLE MARIE RIVERA KROENKE": 90,
+            "AMBER M. SPRIGGS": 112,
+            "NEEN": 99,
+            "PETE CANFIELD": 91,
+            "GOOM": 89,
+            "ZEEBZOBB": 114,
+            "SARAH": 100,
+            "JACK WEAKLY": 78
+        }
+    },
+    "AMBER M. SPRIGGS": {
+        "DEFEATS": 884,
+        "TRIUMPHS": 116,
+        "VICTORIES": 919,
+        "TOTAL_DAMAGE": 147.5,
+        "DEFEATED_BY": {
+            "NEEN": 97,
+            "BENAI": 112,
+            "ZEEBZOBB": 113,
+            "SARAH": 106,
+            "JACK WEAKLY": 113,
+            "PETE CANFIELD": 85,
+            "SAMUEL PETERSON": 82,
+            "GOOM": 97,
+            "GABRIELLE MARIE RIVERA KROENKE": 79
+        },
+        "DEFEATED": {
+            "JACK WEAKLY": 109,
+            "SAMUEL PETERSON": 95,
+            "PETE CANFIELD": 102,
+            "SARAH": 99,
+            "ZEEBZOBB": 107,
+            "BENAI": 106,
+            "NEEN": 93,
+            "GABRIELLE MARIE RIVERA KROENKE": 108,
+            "GOOM": 100
+        }
+    },
+    "ZEEBZOBB": {
+        "DEFEATS": 897,
+        "TRIUMPHS": 103,
+        "VICTORIES": 926,
+        "TOTAL_DAMAGE": 18.0,
+        "DEFEATED_BY": {
+            "PETE CANFIELD": 93,
+            "SARAH": 103,
+            "GOOM": 90,
+            "SAMUEL PETERSON": 98,
+            "AMBER M. SPRIGGS": 107,
+            "BENAI": 114,
+            "GABRIELLE MARIE RIVERA KROENKE": 101,
+            "NEEN": 95,
+            "JACK WEAKLY": 96
+        },
+        "DEFEATED": {
+            "SAMUEL PETERSON": 89,
+            "NEEN": 108,
+            "GABRIELLE MARIE RIVERA KROENKE": 101,
+            "AMBER M. SPRIGGS": 113,
+            "SARAH": 116,
+            "GOOM": 105,
+            "BENAI": 91,
+            "PETE CANFIELD": 105,
+            "JACK WEAKLY": 98
+        }
+    },
+    "PETE CANFIELD": {
+        "DEFEATS": 909,
+        "TRIUMPHS": 91,
+        "VICTORIES": 876,
+        "TOTAL_DAMAGE": 344.5,
+        "DEFEATED_BY": {
+            "SAMUEL PETERSON": 111,
+            "NEEN": 95,
+            "GABRIELLE MARIE RIVERA KROENKE": 110,
+            "AMBER M. SPRIGGS": 102,
+            "GOOM": 110,
+            "BENAI": 91,
+            "SARAH": 89,
+            "JACK WEAKLY": 96,
+            "ZEEBZOBB": 105
+        },
+        "DEFEATED": {
+            "ZEEBZOBB": 93,
+            "NEEN": 118,
+            "GOOM": 91,
+            "SARAH": 108,
+            "AMBER M. SPRIGGS": 85,
+            "GABRIELLE MARIE RIVERA KROENKE": 95,
+            "BENAI": 91,
+            "SAMUEL PETERSON": 110,
+            "JACK WEAKLY": 85
+        }
+    },
+    "NEEN": {
+        "DEFEATS": 904,
+        "TRIUMPHS": 96,
+        "VICTORIES": 890,
+        "TOTAL_DAMAGE": 21.0,
+        "DEFEATED_BY": {
+            "SARAH": 85,
+            "PETE CANFIELD": 118,
+            "GABRIELLE MARIE RIVERA KROENKE": 99,
+            "BENAI": 99,
+            "ZEEBZOBB": 108,
+            "GOOM": 102,
+            "SAMUEL PETERSON": 94,
+            "AMBER M. SPRIGGS": 93,
+            "JACK WEAKLY": 106
+        },
+        "DEFEATED": {
+            "AMBER M. SPRIGGS": 97,
+            "PETE CANFIELD": 95,
+            "BENAI": 87,
+            "GABRIELLE MARIE RIVERA KROENKE": 107,
+            "GOOM": 102,
+            "SAMUEL PETERSON": 108,
+            "ZEEBZOBB": 95,
+            "JACK WEAKLY": 95,
+            "SARAH": 104
+        }
+    },
+    "JACK WEAKLY": {
+        "DEFEATS": 898,
+        "TRIUMPHS": 102,
+        "VICTORIES": 903,
+        "TOTAL_DAMAGE": 287.0,
+        "DEFEATED_BY": {
+            "AMBER M. SPRIGGS": 109,
+            "GOOM": 100,
+            "SAMUEL PETERSON": 106,
+            "GABRIELLE MARIE RIVERA KROENKE": 127,
+            "SARAH": 100,
+            "BENAI": 78,
+            "NEEN": 95,
+            "PETE CANFIELD": 85,
+            "ZEEBZOBB": 98
+        },
+        "DEFEATED": {
+            "SARAH": 102,
+            "GABRIELLE MARIE RIVERA KROENKE": 95,
+            "BENAI": 102,
+            "SAMUEL PETERSON": 92,
+            "AMBER M. SPRIGGS": 113,
+            "NEEN": 106,
+            "PETE CANFIELD": 96,
+            "ZEEBZOBB": 96,
+            "GOOM": 101
+        }
+    },
+    "GABRIELLE MARIE RIVERA KROENKE": {
+        "DEFEATS": 895,
+        "TRIUMPHS": 105,
+        "VICTORIES": 902,
+        "TOTAL_DAMAGE": 106.0,
+        "DEFEATED_BY": {
+            "SARAH": 114,
+            "BENAI": 90,
+            "GOOM": 95,
+            "JACK WEAKLY": 95,
+            "ZEEBZOBB": 101,
+            "PETE CANFIELD": 95,
+            "NEEN": 107,
+            "SAMUEL PETERSON": 90,
+            "AMBER M. SPRIGGS": 108
+        },
+        "DEFEATED": {
+            "GOOM": 87,
+            "NEEN": 99,
+            "PETE CANFIELD": 110,
+            "BENAI": 84,
+            "JACK WEAKLY": 127,
+            "SAMUEL PETERSON": 110,
+            "ZEEBZOBB": 101,
+            "SARAH": 105,
+            "AMBER M. SPRIGGS": 79
+        }
+    },
+    "SAMUEL PETERSON": {
+        "DEFEATS": 894,
+        "TRIUMPHS": 106,
+        "VICTORIES": 909,
+        "TOTAL_DAMAGE": 138.0,
+        "DEFEATED_BY": {
+            "BENAI": 104,
+            "SARAH": 88,
+            "ZEEBZOBB": 89,
+            "AMBER M. SPRIGGS": 95,
+            "JACK WEAKLY": 92,
+            "GABRIELLE MARIE RIVERA KROENKE": 110,
+            "NEEN": 108,
+            "GOOM": 98,
+            "PETE CANFIELD": 110
+        },
+        "DEFEATED": {
+            "PETE CANFIELD": 111,
+            "BENAI": 126,
+            "SARAH": 84,
+            "JACK WEAKLY": 106,
+            "ZEEBZOBB": 98,
+            "GOOM": 118,
+            "NEEN": 94,
+            "AMBER M. SPRIGGS": 82,
+            "GABRIELLE MARIE RIVERA KROENKE": 90
+        }
+    },
+    "SARAH": {
+        "DEFEATS": 917,
+        "TRIUMPHS": 83,
+        "VICTORIES": 914,
+        "TOTAL_DAMAGE": 405.0,
+        "DEFEATED_BY": {
+            "PETE CANFIELD": 108,
+            "SAMUEL PETERSON": 84,
+            "JACK WEAKLY": 102,
+            "AMBER M. SPRIGGS": 99,
+            "ZEEBZOBB": 116,
+            "BENAI": 100,
+            "GABRIELLE MARIE RIVERA KROENKE": 105,
+            "NEEN": 104,
+            "GOOM": 99
+        },
+        "DEFEATED": {
+            "GABRIELLE MARIE RIVERA KROENKE": 114,
+            "BENAI": 118,
+            "NEEN": 85,
+            "ZEEBZOBB": 103,
+            "SAMUEL PETERSON": 88,
+            "AMBER M. SPRIGGS": 106,
+            "GOOM": 111,
+            "JACK WEAKLY": 100,
+            "PETE CANFIELD": 89
+        }
+    },
+    "GOOM": {
+        "DEFEATS": 904,
+        "TRIUMPHS": 96,
+        "VICTORIES": 884,
+        "TOTAL_DAMAGE": 189.0,
+        "DEFEATED_BY": {
+            "GABRIELLE MARIE RIVERA KROENKE": 87,
+            "PETE CANFIELD": 91,
+            "SAMUEL PETERSON": 118,
+            "BENAI": 89,
+            "SARAH": 111,
+            "NEEN": 102,
+            "ZEEBZOBB": 105,
+            "JACK WEAKLY": 101,
+            "AMBER M. SPRIGGS": 100
+        },
+        "DEFEATED": {
+            "JACK WEAKLY": 100,
+            "BENAI": 93,
+            "ZEEBZOBB": 90,
+            "GABRIELLE MARIE RIVERA KROENKE": 95,
+            "NEEN": 102,
+            "PETE CANFIELD": 110,
+            "SAMUEL PETERSON": 98,
+            "AMBER M. SPRIGGS": 97,
+            "SARAH": 99
+        }
+    }
+}
